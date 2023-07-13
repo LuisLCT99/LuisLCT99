@@ -1,11 +1,12 @@
-- Hi,  im @LuisLCT99 , you can call me  Luis or LCT as you prefer :D 
+- Hi, im @LuisLCT99 , you can call me  Luis or LCT as you prefer :D 
 - Currently living in Spain, I can talk both spanish and english 
-- I’m currently studying DAM (Desarrollo de Aplicaciones Multiplataforma/ Multiplatform app development, I want to learn as much as I can about coding
-- Currently working with Java
+- I’ve studied DAM (Desarrollo de Aplicaciones Multiplataforma/ Multiplatform app development)
+- Currently working as QE&A for Cognizant using:
+- Java, Cucumber, Git
 - I’m looking to collaborate on everything I can, I wanna learn new languages and grow
 - How to reach me, you can DM me on twitter: www.twitter.com/LuisLCT99 or e-mail me luislct99@protonmail.com
 
-Any constructive criticism is wellcomed.❤
+Any constructive criticism is welcomed.❤
 
 
 <!---
