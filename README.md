@@ -2,7 +2,7 @@
 - Currently living in Spain, I can talk both Spanish and English. 
 - I’ve studied DAM (Desarrollo de Aplicaciones Multiplataforma/ Multiplatform App Development)
 - Worked as QE&A for Cognizant using:
-- Java, Cucumber, Git, Selenium, Postman
+  - Java, Cucumber, Git, Selenium, Postman
 - Currently studying IMF's Cyber Security Master
 - I’m looking to collaborate on everything I can, I wanna learn new languages and grow
 - How to reach me, you can DM me on twitter: www.twitter.com/LuisLCT99 or e-mail me luislct99@protonmail.com
