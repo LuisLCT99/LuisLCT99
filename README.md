@@ -1,12 +1,10 @@
-- Hi, im @LuisLCT99 , you can call me  Luis or LCT as you prefer :D 
-- Currently living in Spain, I can talk both Spanish and English. 
-- I’ve studied DAM (Desarrollo de Aplicaciones Multiplataforma/ Multiplatform App Development)
+- Luis, 26, Spain, Eng & Spanish 
+- Desarrollo de Aplicaciones Multiplataforma/ Multiplatform App Development & Currently IMF's CySec Master
 - Worked as QE&A for Cognizant using:
   - Java, Cucumber, Git, Selenium, Postman
-- Currently studying IMF's Cyber Security Master
-- I’m looking to collaborate on everything I can, I wanna learn new languages and grow
+- Looking for collabs :) 
 
-Any constructive criticism is welcomed.❤
+Any tip/suggestion/criticism regarding my repos is always welcomed. 
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luiscorcino) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LuisLCT99) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luiscorcinotuesta@gmail.com) 
